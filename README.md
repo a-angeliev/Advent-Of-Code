@@ -1,4 +1,4 @@
-Advent of Code 2022
+# Advent of Code 2022
 
 Day1 :star: :star:   
 Day2 :star: :star:   
