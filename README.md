@@ -18,3 +18,5 @@ Day15 :star: :star:  works 2 times faster than the buddy solution
 Day16       
 Day17 :star: :star:   
 Day18 :star: :star:       
+Day19       
+Day20 :star: :star:      
