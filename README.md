@@ -15,9 +15,10 @@ Day12 :star: :star:  (must be refactored)
 Day13 :star: :star:  
 Day14 :star: :star:  
 Day15 :star: :star:  works 2 times faster than the buddy solution    
-Day16       
+Day16 :x: :x:         
 Day17 :star: :star:   
 Day18 :star: :star:       
-Day19       
-Day20 :star: :star:     
-Day21 :star: :star:    
+Day19 :x: :x:          
+Day20 :star: :star:        
+Day21 :star: :star:      
+Day22 :star: :x:     
