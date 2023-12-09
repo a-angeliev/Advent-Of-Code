@@ -3,6 +3,7 @@ start_time = time.time()
 
 f = open("input.txt", "r")
 input = f.readlines()
+
 total_sum = 0
 line_number = ""
 
